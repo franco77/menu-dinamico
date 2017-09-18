@@ -4,7 +4,7 @@ if (!isset($_SESSION)) {
 }
 $host_db = "localhost";
 $user_db = "root";
-$pass_db = "15925621";
+$pass_db = "123456";
 $db_name = "db_admin_franco";
 
 		
